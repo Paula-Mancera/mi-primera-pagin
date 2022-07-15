@@ -1,0 +1,8 @@
+.nav{background-color:rgb(182, 128, 231) !important; font-family: 'Lucida Sans'
+} 
+
+.nav >li>a{
+color: white !important;
+font-size: 25px;
+
+}
